@@ -6,7 +6,7 @@ A simple Python quiz application ('quiz_app.py) uploaded to Github.
 - Easy to run from command line
   #How to run
   1. Make sure python is installed on system
-  2. Download this respiratory
+  2. Download this repository
   3. Run the script
      python quiz_app.py
   
